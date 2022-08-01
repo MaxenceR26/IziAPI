@@ -7,4 +7,4 @@ IziAPI te les proposes !
 -> Ajout de nouvelle fonctionnalité: SOON
 
 <3
-By Kijusu / Maxence <3 
+By Maxence <3 
