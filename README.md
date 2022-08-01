@@ -4,6 +4,7 @@ Une nouvelle api, simple éfficace ! Personnalise ton github avec ! Ne t'embête
 IziAPI te les proposes !
 
 -> Documentation: SOON
+
 -> Ajout de nouvelle fonctionnalité: SOON
 
 <3
